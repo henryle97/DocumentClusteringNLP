@@ -1,0 +1,9 @@
+I. Các vấn đề cần tìm hiểu 
+- Tiền xử lý dữ liệu : Loại ký tự đặc biệt, tách từ, loại bỏ stopwords (từ lặp nhiều mang ít ý nghĩa)
+- Trích xuất đặc trưng: Bag of words hoặc TF-IDF 
+- Chọn  thuật toán: Naive Bayes / K-Means /...
+
+
+
+II. Báo cáo 
+- Mục lục cho báo cáo 
