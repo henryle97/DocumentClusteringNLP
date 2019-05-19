@@ -1,0 +1,2 @@
+- Bật terminal: pip install requirement_library.txt để cài các thư viện cần thiết 
+- Run : python document_clustering.py  
